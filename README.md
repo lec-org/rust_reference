@@ -1,0 +1,1 @@
+Rust is a system-level programming language with static type, strong type, high performance, and nice design concept. so what are you waiting for? Just learn it before too late!
